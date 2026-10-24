@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+irrigation_model.joblib
+model_metrics.json
